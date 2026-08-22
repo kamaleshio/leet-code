@@ -1,6 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        min_price = float('inf')
+        min_price = float('inf')  #inf means infinity
         max_profit=0
 
         for i in prices:
