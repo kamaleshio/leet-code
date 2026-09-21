@@ -4,3 +4,4 @@ class Solution:
         nums[:]= nums[-k:]+nums[:-k]
         
         
+        
